@@ -1,0 +1,33 @@
+.header-section-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.website-logo {
+  font-family: "Comfortaa";
+  font-size: 1.8rem;
+  padding-right: 200px;
+  color: black;
+  font-weight: bold;
+}
+
+.nav-items-container {
+  display: flex;
+  align-items: center;
+  gap: 6rem;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+}
+
+.nav-links {
+  font-family: "Raleway";
+  font-size: 1.4rem;
+  color: black;
+}
+
+.nav-links:hover {
+  font-weight: 700;
+}
